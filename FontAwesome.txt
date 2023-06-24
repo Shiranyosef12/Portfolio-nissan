@@ -1,0 +1,26 @@
+sun
+<i class="fa-light fa-sun-bright"></i>
+
+Color
+<i class="fa-solid fa-droplet"></i>
+
+plus
+<i class="fa-solid fa-plus"></i>
+
+Delete
+<i class="fa-solid fa-eraser"></i>
+
+facebook
+<i class="fa-brands fa-facebook"></i>
+
+Instagram
+<i class="fa-brands fa-instagram"></i>
+
+github
+<i class="fa-brands fa-github"></i>
+
+mail
+<i class="fa-regular fa-envelope"></i>
+
+arrow-
+<i class="fa-solid fa-arrow-up-from-line"></i>

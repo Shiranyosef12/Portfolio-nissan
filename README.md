@@ -14,5 +14,9 @@ You can add links to versions of bootstrap and font awesome.
 There are things that only work on a computer, such as:
 Animations of pictures, and the JS game.
 
+## Technologies
+The projects were realized with the help of:
+Java Script, font awesome, bootstrap, HTML, CSS.
+
 
 
